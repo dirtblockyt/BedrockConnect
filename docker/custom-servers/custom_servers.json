@@ -2,13 +2,13 @@
 	{
 		"name": "My Custom Server 1",
 		"iconUrl": "https://i.imgur.com/3BmFZRE.png",
-		"address": "mc1.example.com",
-		"port": 19132
+		"address": "mc1.cloud.jukito.com",
+		"port": 30080
 	},
 	{
 		"name": "My Custom Server 2",
 		"iconUrl": "https://i.imgur.com/3BmFZRE.png",
-		"address": "mc2.example.com",
-		"port": 19132
+		"address": "mc2.cloud.jukito.com",
+		"port": 30081
 	}
 ]
